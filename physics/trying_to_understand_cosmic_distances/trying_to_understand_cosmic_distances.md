@@ -1,5 +1,9 @@
 # Trying to understand cosmic distances
 
+**Author:** Antoine Brunet
+
+**Created:** April 8, 2026
+
 Our nearest star, Proxima Centauri, is about 4.24 light years away or about 40 trillion km away.
 
 If one were to travel from Earth to Proxima Centauri by car at 100 km/h without stopping, it would take one about 45 million years. Let's take something faster than a car. During the Apollo 11 mission, it took the crew 3 days to get to the Moon. The Moon has an average distance of about 400,000 km from Earth. Proxima Centauri is about a million times farther. I am starting to feel the distance as I am writing and that's our closest star.
