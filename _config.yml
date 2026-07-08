@@ -1,0 +1,8 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - computer_science/easy_introduction_to_json/easy_introduction_to_json.md
+  - computer_science/non_ai_automatic_code_generation/non_ai_automatic_code_generation.md
