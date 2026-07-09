@@ -43,7 +43,7 @@ Syntax: `null`
 
 Syntax:
 
-```
+```text
 {
     "nameOfValue1": value1,
     "nameOfValue2": value2,
@@ -59,7 +59,7 @@ Syntax:
 
 Syntax :
 
-```
+```text
 [
     value1,
     value2,

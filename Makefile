@@ -1,2 +1,2 @@
 markdown-lint:
-	markdownlint *.md
+	markdownlint -i README.md *.md
