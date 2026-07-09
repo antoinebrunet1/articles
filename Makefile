@@ -1,0 +1,2 @@
+markdown-lint:
+	markdownlint *.md
