@@ -1,0 +1,20 @@
+name: Links check
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  links-check:
+    name: Links check
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - name: Install lychee
+        run: pacman -S lychee
+      - name: Links check
+        run: make check-links
