@@ -1,4 +1,4 @@
-# Articles
+# Computer science articles
 
 - [3 code quality tools](articles/computer_science/3_code_quality_tools.md)
 - [Easy introduction to JSON](articles/computer_science/easy_introduction_to_json.md)
