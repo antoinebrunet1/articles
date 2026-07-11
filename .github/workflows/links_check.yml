@@ -17,4 +17,4 @@ jobs:
       - name: Links check
         uses: lycheeverse/lychee-action@v2
         with:
-          args: --exclude-path README.md *.md
+          args: --exclude-path README.md **/*.md
