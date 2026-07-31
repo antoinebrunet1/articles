@@ -39,6 +39,8 @@ Syntax: `false`
 
 Syntax: `null`
 
+It represents a non-existing value.
+
 ## `object`
 
 Syntax:
